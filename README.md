@@ -30,6 +30,9 @@ Button 2 - Servo 1 to 180°
 Button 3 - Servo 2 to 0°
 Button 4 - Servo 2 to 180°
 
+To make this more cost friendly i am using 205 Gsm cardstock paper which i have available
+
+
 
 
 
