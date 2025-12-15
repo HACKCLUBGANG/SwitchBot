@@ -33,7 +33,16 @@ Button 4 - Servo 2 to 180°
 To make this more cost friendly i am using 205 Gsm cardstock paper which i have available
 
 
+# CIRCUIT OF ROBOTIC SWITCH
+![Circuit of Robotic Switch](firmware/CircuitofRoboticSwitch.png)
 
+# 3D CAD FILE IMAGES
+![Battery and Charging CAD](cad/batteryandchargingcad.png)
+![CAD](cad/cad.png)
+![CAD Top Cover](cad/cadtopcover.png)
+![ESP Case](cad/espcase.png)
+![ESP Case Bottom](cad/espcasebottom.png)
+![ESP Case Top](cad/espcaseto.png)
 
 
 
